@@ -1,0 +1,10 @@
+﻿  fast food [Project 1].cpp
+C:\Users\kkan2\source\repos\fast food [Project 1]\fast food [Project 1]\Foods.h(139,49): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\kkan2\source\repos\fast food [Project 1]\fast food [Project 1]\Menu.h(13,35): error C2664: 'BOOL SetConsoleTitleW(LPCWSTR)': 無法將引數 1 從 'const _Elem *' 轉換為 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\kkan2\source\repos\fast food [Project 1]\fast food [Project 1]\Menu.h(13,33): message : 指向的類型沒有相關; 轉換必須有 reinterpret_cast、C-Style 轉換或函式樣式轉換
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\consoleapi2.h(510,1): message : 請參閱 'SetConsoleTitleW' 的宣告
+C:\Users\kkan2\source\repos\fast food [Project 1]\fast food [Project 1]\Menu.h(58,49): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
